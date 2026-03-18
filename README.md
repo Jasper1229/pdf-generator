@@ -2,6 +2,8 @@
 
 This Python script generates 10 random PDF files, each containing 5000 characters of random text. These PDFs can be uploaded to Scribd to unlock and download other documents for free. The PDFs are saved with unique names in your local directory. The script is easy to run using Python or a `.bat` file.
 
+Works for Scribd as of 18/3/2026
+
 ## Requirements
 - Python 3.x
 - Libraries: `faker`, `fpdf`
